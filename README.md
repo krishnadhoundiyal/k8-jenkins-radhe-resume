@@ -1,1 +1,0 @@
-Deploy Radhe Resume on K8 with Jenkins
